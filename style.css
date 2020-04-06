@@ -1,0 +1,12 @@
+#background{
+ padding: 40px;
+ background: url(./images/html-color-codes-color-tutorials-hero-00e10b1f.jpg);
+}
+#textbox{
+ padding: 10px;
+ opacity: 0.8;
+ background-color: black;
+}
+.text{
+ color: white;
+}
